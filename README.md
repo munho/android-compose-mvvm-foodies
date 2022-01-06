@@ -1,3 +1,7 @@
+# Article
+  * [Compose architecture: MVVM or MVI with Flow?](https://codingtroops.com/android/compose-architecture-part-1-mvvm-or-mvi-architecture-with-flow/)
+  * [Slide - Clean Architecture with Jetpack Compose](https://speakerdeck.com/djain2405/clean-architecture-with-jetpack-compose)
+
 # Foodies - Modern Android Architecture
 
 Foodies is a sample project that presents a modern approach to Android app development.
